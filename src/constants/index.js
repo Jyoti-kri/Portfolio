@@ -15,7 +15,7 @@ My goal is to craft impactful digital experiences that are both user-centric and
 
 export const EXPERIENCES = [
   {
-    year: "July-2025",
+    year: "July-2024",
     role: "Web Development Intern",
     company: "Prodigy InfoTech",
     description: [
